@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191802673505",
+    "project_id": "localassistance-149cd",
+    "storage_bucket": "localassistance-149cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191802673505:android:2a1d276d947fb687081d20",
+        "android_client_info": {
+          "package_name": "com.example.localassistance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZ1SldZWNAVTZOJd809mWK5KIFDNuvgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
